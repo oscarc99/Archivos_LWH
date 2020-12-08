@@ -45,7 +45,7 @@ func main() {
 	asd := time.Now()
 	fe := asd.Format("2006-01-02 15:04:00")
 	fmt.Println(fe)
-	//disco := mbra{}
+	disco := mbra{}
 
 	a := time.Now()
 
